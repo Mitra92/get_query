@@ -1,1 +1,1 @@
-# get_query
+# send_query_to_postgresql
