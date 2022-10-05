@@ -1,0 +1,26 @@
+{
+  "db1" :
+  {
+    "USER" : "login",
+    "PASSWORD" : "password",
+    "HOST" : "host_db-domen.ru",
+    "BASE" : "table1",
+    "PORT" : 5432
+  },
+  "db2" :
+  {
+    "USER" : "login",
+    "PASSWORD" : "password",
+    "HOST" : "host_db-domen2.ru",
+    "BASE" : "table2",
+    "PORT" : 5432
+  },
+  "db3" :
+  {
+    "USER" : "login",
+    "PASSWORD" : "password",
+    "HOST" : "host_db-domen2.ru",
+    "BASE" : "table3",
+    "PORT" : 5432
+  }
+}
