@@ -19,7 +19,7 @@
   {
     "USER" : "login",
     "PASSWORD" : "password",
-    "HOST" : "host_db-domen2.ru",
+    "HOST" : "host_db-domen3.ru",
     "BASE" : "table3",
     "PORT" : 5432
   }
