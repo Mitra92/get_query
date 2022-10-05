@@ -28,3 +28,13 @@
 Каждый шаг логируется
 
 
+Для работы скрипта требуется заполнить файл connections.json
+  {
+    "USER" : "login",
+    "PASSWORD" : "password",
+    "HOST" : "host_db-domen.ru",
+    "BASE" : "table1",
+    "PORT" : 5432
+  },
+
+
